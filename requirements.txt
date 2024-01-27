@@ -3,3 +3,4 @@ weaviate-client
 umap-learn
 altair
 datasets
+Annoy
