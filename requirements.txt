@@ -4,3 +4,4 @@ umap-learn
 altair
 datasets
 Annoy
+python-dotenv
